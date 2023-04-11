@@ -1,5 +1,7 @@
 # Semantic Search for Org Roam
 
+Original post: http://lgmoneda.github.io/2023/04/08/semantic-search-for-org-roam.html
+
 Steps:
 
 1. Go to `config.py` file and provide the correct paths for your use case and the OpenAI API Key.

@@ -7,7 +7,7 @@ setup(name='ssor',
       python_requires='>=3.7, <4',
       install_requires=[
           'adjustText==0.7.3',
-          'langchain==0.0.101',
+          'langchain==0.0.308',
           'openai==0.27.0',
           'orgparse==0.3.2',
           'pandas==1.5.2',
